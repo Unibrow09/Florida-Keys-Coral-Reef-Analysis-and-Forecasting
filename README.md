@@ -922,7 +922,7 @@ All forecasting scripts follow a similar structure:
 - LinkedIn: [https://www.linkedin.com/in/shivam-vashishtha/]
 
 **Project Links**:
-- GitHub Repository: [repository-url]
+- GitHub Repository: [https://github.com/Unibrow09/Florida-Keys-Coral-Reef-Analysis-and-Forecasting]
 - Detailed Report: [Google Drive](https://drive.google.com/drive/folders/1QG9yBLyUimUc7Fgq2R8sKWNiAsk3QjIl)
 
 
